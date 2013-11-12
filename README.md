@@ -1,6 +1,6 @@
 Haskell Schemer
 ===============
-Lisp interpreter in Haskell. Just for funzies ;)
+Scheme interpreter in Haskell.
 
 ## Dependencies ##
  - parsec
